@@ -1,0 +1,6 @@
+{
+  "name": "DeepTrace Walkthrough & Forensic Workbench",
+  "description": "Interactive forensic pipeline explorer, local SHA-256 & residual inspector, and risk fusion workbench for DeepTrace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
